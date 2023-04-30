@@ -7,4 +7,10 @@ This is the repo containing all the tasks which I have performed during my inter
 
 2) The second task was : stock market price prediction
 - algorithm used : Long-short term memory
-- model accuracy : 9
+- library used : Tensorflow and Keras
+
+3) The third task was : To predict using Decision tree classifier
+- model accuracy : 97.9%
+
+4) The fourth task was : To develop a neural network that can read handwriting
+- accuracy obtained : 99.21%
